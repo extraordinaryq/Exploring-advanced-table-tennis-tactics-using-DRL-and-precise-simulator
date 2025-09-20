@@ -1,0 +1,5 @@
+mlagents-learn C:\Unity\Pingpong-human\Config\pingpong_human.yaml --run-id=self01 --time-scale=1
+
+tensorboard --logdir=results\mod2mix1
+
+mlagents-learn C:\Unity\Pingpong-human\Config\pingpong_human_mix.yaml --run-id=mod2mix1 --time-scale=1 --initialize-from=mod2ppo1
