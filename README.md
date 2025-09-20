@@ -119,7 +119,8 @@ Total size: 22
 - rotation angle (1D) of the elbow joint
 - rotation angles (2D) of the wrist joint
 
-![Table Tennis Game](https://github.com/extraordinaryq/Master-Table-Tennis-game/blob/master/network.svg)
+**Workflow:**
+![Table Tennis Game](https://github.com/extraordinaryq/Master-Table-Tennis-game/blob/main/workflow.svg)
 <br>
 **Reward function:**
 
